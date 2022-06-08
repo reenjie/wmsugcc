@@ -1,0 +1,46 @@
+[26-Mar-2022 04:52:59 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[26-Mar-2022 04:52:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[26-Mar-2022 04:52:59 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[26-Mar-2022 04:52:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[26-Mar-2022 04:52:59 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[26-Mar-2022 04:52:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined index: sidebar_banner1 in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 33
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 90
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 220
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined index: sem in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 223
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[28-Mar-2022 18:05:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[28-Mar-2022 18:05:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[28-Mar-2022 18:05:43 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[28-Mar-2022 18:05:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined index: sidebar_banner1 in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 33
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 90
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 220
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined index: sem in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 223
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[29-Mar-2022 04:27:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[29-Mar-2022 04:27:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[29-Mar-2022 04:27:34 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[29-Mar-2022 04:27:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined index: sidebar_banner1 in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 33
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 90
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 220
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined index: sem in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 223
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[29-Mar-2022 14:52:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[29-Mar-2022 14:52:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[29-Mar-2022 14:52:15 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[29-Mar-2022 14:52:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined index: sidebar_banner1 in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 33
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 90
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined index: superadminId in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/include/assets/topbar.php on line 220
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined index: sem in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 223
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[30-Mar-2022 01:12:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 897
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[30-Mar-2022 01:12:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 927
+[30-Mar-2022 01:12:54 UTC] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928
+[30-Mar-2022 01:12:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/logs/index.php on line 928

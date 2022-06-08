@@ -1,0 +1,86 @@
+[26-Mar-2022 12:52:14 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:52:14 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:52:14 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:52:14 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:52:14 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:52:14 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:52:29 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:52:29 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:52:29 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:52:29 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:52:29 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:52:29 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:53:15 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:53:15 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:53:15 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:53:15 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:53:15 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:53:15 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:53:42 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:53:42 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:53:42 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:53:42 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:53:42 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:53:42 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:54:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:54:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 12:54:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:54:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 12:54:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 12:54:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 21:15:01 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 21:15:01 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 21:15:01 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 21:15:01 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 21:15:01 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 21:15:01 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 21:28:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 21:28:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[26-Mar-2022 21:28:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 21:28:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[26-Mar-2022 21:28:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[26-Mar-2022 21:28:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[29-Mar-2022 16:17:43 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[29-Mar-2022 16:17:43 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[29-Mar-2022 16:17:43 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[29-Mar-2022 16:17:43 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[29-Mar-2022 16:17:43 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[29-Mar-2022 16:17:43 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 09:42:38 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 09:42:38 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 09:42:38 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[30-Mar-2022 09:42:38 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[30-Mar-2022 09:42:38 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 09:42:38 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Notice:  Undefined variable: gcc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Notice:  Undefined variable: gcc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 441
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 441
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Notice:  Undefined variable: gcc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 442
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 442
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 14:21:03 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Notice:  Undefined variable: gcc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 413
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Notice:  Undefined variable: gcc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 441
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 441
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Notice:  Undefined variable: gcc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 442
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 442
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 443
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Notice:  Undefined variable: gc in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 444
+[30-Mar-2022 14:21:12 Asia/Manila] PHP Warning:  Division by zero in /home/ja59dvmjcj5e/public_html/wmsugcc/admin/Dashboard/index.php on line 333
