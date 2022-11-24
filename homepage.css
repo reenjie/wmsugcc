@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+		*{
+			font-family: 'Cairo', sans-serif;
+		}
+		header {
+      position: relative;
+		background-color: #f1f1f1;
+		  padding: 40px 50px;
+		  text-align: center;
+		
+     
+      background-repeat: no-repeat;
+ /* background-attachment: fixed;*/
+  background-position: left center;
+  background-size: cover;
+ z-index: 2;
+ border-bottom :5px solid #1cc88a ;
+
+		}
+    #background {
+   
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color:rgba(0,0,0,.3); 
+ 
+  padding: 60px;
+  width: 100%;
+  z-index: 1;
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px) -ms-filter: blur(3px);
+  filter: blur(3px);
+  
+}
+.header-content{
+position: relative;
+z-index: 9999;
+background-color: rgba(0,0,0,.3);
+padding: 10px;
+}
+		.topbar {
+			position: absolute;
+			top: 0;
+			width: 100%;
+			height: auto;
+
+		}
+		.footbar {
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			height: auto;
+		}
+
+		.tickerwrapper {
+  /* the outer div */
+  
+ 	color: white;
+ 	padding: 6px;
+ 	padding-top: 10px;
+}
+
+ul.list {
+  position: relative;
+  display: inline-block;
+  list-style: none;
+  padding:0;
+  margin:0;
+}
+
+ul.list.cloned {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+ul.list li {
+  float: left;
+  padding-left: 20px;
+}
+li .listitem span{
+	display:grid;
+}
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+/* Month header */
+.month {
+  padding: 10px 25px;
+  width: 100%;
+  background: #1abc9c;
+  text-align: center;
+}
+
+/* Month list */
+.month ul {
+  margin: 0;
+  padding: 0;
+}
+
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+  float: left;
+  padding-top: 10px;
+}
+
+/* Next button */
+.month .next {
+  float: right;
+  padding-top: 10px;
+}
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+  background-color:#ddd;
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.6%;
+  color: #666;
+  text-align: center;
+}
+
+/* Days (1-31) */
+.days {
+  padding: 10px 0;
+  background: #eee;
+  margin: 0;
+}
+
+.days li {
+  list-style-type: none;
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size:12px;
+  color: #777;
+}
+
+/* Highlight the "current" day */
+.days li .active {
+  padding: 5px;
+  background: #1abc9c;
+  color: white !important
+}
+
+footer {
+	position: relative;
+	width: 100%;
+	bottom: 0;
+	
+	border-top:5px solid #1cc88a;
+  height: auto;
+
+
+
+}
+
+@media screen and (max-width: 768px){
+  footer {
+    height: 100%;
+  }
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    }
+
+    .nav-item .nav-link{
+    	color: white;
+    }
+    .nav-item a .dropdown-menu .dropdown-item{
+    	color: black;
+    }
+    .newsfeed {
+    	height: auto ;
+    	overflow-y: scroll;
+    }
+   .newsfeed::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+.newsfeed::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+.newsfeed::-webkit-scrollbar-thumb {
+  background:#90ddc3;
+  border-radius: 50px;
+}
+
+/* Handle on hover */
+.newsfeed::-webkit-scrollbar-thumb:hover {
+  background: green;
+}
+
+.progress-container {
+  width: 100%;
+  height: 3px;
+  background: #ccc;
+}
+
+/* The progress bar (scroll indicator) */
+.progress-bar {
+  height: 3px;
+  background: #476c4e;
+  width: 0%;
+}
+
+
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+  #navmobile{
+    display: none;
+  }
+  .carousel-item img{
+    height: 340px;
+  }
+  .header-content img{
+              width: 140px;
+              
+            }
+            #tickerwrapper h6 {
+              float: left;background-color: grey;padding: 15px;position: absolute;z-index: 1; padding-bottom: 15px;padding-top: 10px;border-radius: 5px;margin-left: -5px;margin-top: -8px
+            }
+             #bgimage{
+    /* The image used */
+
+ position: relative;
+  
+    background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    height: 100%;
+    filter: blur(8px); /* Adding blur background image */
+    padding: 190px;
+  }
+  #carouselExampleFade {
+  
+ text-align: center;
+      position: absolute;
+      left : 15%;
+    top: 5%;
+      width: 70%;
+    background-color: rgba(256 , 256,256,0.5);
+    font-size: 30px;
+    z-index: 9999px;
+     filter: blur(0px); /* Adding blur background image */
+
+  }
+
+      @media screen and (max-width: 600px) {
+
+        header{
+          background-size: cover;
+         
+          background-position: 80% 50%;
+        }
+            #nav {
+              display: none;
+            }
+              #navmobile{
+                display: block;
+                padding: 10px;
+
+            }
+            .header-content h1{
+              font-size: 20px;
+            }
+            .header-content img{
+              width: 100px;
+
+            }
+            #tickerwrapper {
+              padding: 3px;
+            }
+            #tickerwrapper h6  {
+            font-size: 14px;
+            padding: 5px;
+            margin-top: 1px;
+            margin-left: 0.1px;
+            }
+            #tickerwrapper marquee {
+              padding-top: 5px;
+              font-size: 15px;
+            }
+            #carouselExampleFade {
+              width: 100%;
+              left: 0%;
+             
+              top: 40px;
+
+            }
+            .carousel-item img{
+              height: 300px;
+
+            }
+            #bgimage {
+              height: 50px;
+            }
+
+            #navis {
+              margin-top: 20px;
+            }
+          
+
+
+            
+    }

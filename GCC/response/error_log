@@ -1,0 +1,102 @@
+[04-Jan-2022 20:24:20 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 20:24:20 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 20:24:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[04-Jan-2022 20:26:04 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 20:26:04 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 20:26:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[04-Jan-2022 22:55:13 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 22:55:13 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 22:55:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[04-Jan-2022 22:55:13 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 22:55:13 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 22:55:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[04-Jan-2022 23:00:09 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 23:00:09 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 23:00:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[04-Jan-2022 23:00:09 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 23:00:09 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 23:00:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[04-Jan-2022 23:05:15 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[04-Jan-2022 23:05:15 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[04-Jan-2022 23:05:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined index: user_student_token_check in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 24
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 25
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined index: formtoken in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 55
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined variable: stat in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 67
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined index: formnamesession in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 84
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 115
+[05-Jan-2022 01:10:09 UTC] PHP Notice:  Undefined variable: bodybg in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 128
+[05-Jan-2022 01:10:25 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 01:10:25 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 01:10:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 01:10:25 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 01:10:25 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 01:10:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 01:13:39 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 01:13:39 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 01:13:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 01:13:39 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 01:13:39 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 01:13:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 01:16:54 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 01:16:54 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 01:16:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:18:08 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:18:08 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:18:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:18:08 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:18:08 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:18:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:19:25 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:19:25 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:19:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:19:25 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:19:25 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:19:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:20:53 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:20:53 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:20:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:25:57 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:25:57 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:25:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:25:57 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:25:57 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:25:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:26:39 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:26:39 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:26:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:26:39 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:26:39 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:26:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 02:27:26 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 02:27:26 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 02:27:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 25
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined index: formtoken in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 55
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined variable: stat in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 67
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined index: formnamesession in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 84
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 115
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined variable: bodybg in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 128
+[05-Jan-2022 03:53:23 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 304
+[05-Jan-2022 04:00:10 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 04:00:10 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 04:00:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 04:00:10 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 04:00:10 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 04:00:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 04:04:31 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 04:04:31 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 04:04:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 04:04:31 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 04:04:31 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 04:04:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 04:09:27 UTC] PHP Notice:  Undefined index: fidlist in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 245
+[05-Jan-2022 04:09:27 UTC] PHP Notice:  Undefined index: tcontentid in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 246
+[05-Jan-2022 04:09:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/saving.php on line 250
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined index: user_student_token_check in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 24
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 25
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined index: formtoken in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 55
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined variable: stat in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 67
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined index: formnamesession in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 84
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined index: Live_form_id in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 115
+[05-Jan-2022 04:20:50 UTC] PHP Notice:  Undefined variable: bodybg in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/response/index.php on line 128

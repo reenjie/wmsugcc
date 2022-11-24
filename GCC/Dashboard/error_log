@@ -1,0 +1,15 @@
+[04-Jan-2022 12:20:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 136
+[04-Jan-2022 12:20:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 136
+[04-Jan-2022 12:20:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 136
+[04-Jan-2022 20:20:11 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 859
+[04-Jan-2022 20:20:11 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 859
+[04-Jan-2022 20:20:11 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 859
+[04-Jan-2022 12:21:14 UTC] PHP Notice:  Undefined index: sidebar_color in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/include/assets/sidebar.php on line 3
+[04-Jan-2022 12:21:14 UTC] PHP Notice:  Undefined index: sidebar_banner in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/include/assets/sidebar.php on line 12
+[04-Jan-2022 12:21:14 UTC] PHP Notice:  Undefined index: admingcc_token in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/include/assets/topbar.php on line 147
+[04-Jan-2022 12:21:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 136
+[04-Jan-2022 12:21:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 136
+[04-Jan-2022 12:21:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 136
+[04-Jan-2022 20:21:14 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 859
+[04-Jan-2022 20:21:14 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 859
+[04-Jan-2022 20:21:14 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Dashboard/index.php on line 859

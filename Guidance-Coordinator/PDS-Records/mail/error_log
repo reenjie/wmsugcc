@@ -1,0 +1,2 @@
+[05-Jan-2022 02:10:54 UTC] PHP Warning:  Use of undefined constant localhost - assumed 'localhost' (this will throw an Error in a future version of PHP) in /home/ja59dvmjcj5e/public_html/wmsugcc/Guidance-Coordinator/PDS-Records/mail/sendnotif.php on line 16
+[05-Jan-2022 06:23:21 UTC] PHP Warning:  Use of undefined constant localhost - assumed 'localhost' (this will throw an Error in a future version of PHP) in /home/ja59dvmjcj5e/public_html/wmsugcc/Guidance-Coordinator/PDS-Records/mail/sendnotif.php on line 16

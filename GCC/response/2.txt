@@ -1,0 +1,166 @@
+<?php 
+session_start();
+include '../create_form/connect.php';
+	$csform = $_SESSION['Live_form_id'];	
+if(isset($_POST['trigger'])){ 
+			$sql = "SELECT * FROM `form` where type = 'Question' and class_name = '$csform' ";
+	                $result = mysqli_query($con,$sql); // run query
+	         
+	         		$count= mysqli_num_rows($result); 
+	             	           
+	             	 date_default_timezone_set('Asia/Manila'); 
+					$defdt =  date("Y-m-d H:i:s");
+	                 while($row = mysqli_fetch_array($result)){
+							$formids = $row['form_id'];
+							$content = $row['content'];
+							$details = $_POST[$formids];
+							$chek = 'check'.$formids;
+							$checkbox = $_POST[$chek];
+							$required = $row['isrequired'];
+					
+				if (!empty($checkbox) ) { 
+								 for($is=0; $is <= $count;$is++) { 
+								
+				/* foreach($_FILES['images']['name'] as $key=>$val){
+                  $image_name = $_FILES['images']['name'][$key];
+                   $tmp_name   = $_FILES['images']['tmp_name'][$key];
+                $size       = $_FILES['images']['size'][$key];
+                 $type       = $_FILES['images']['type'][$key];
+                 $error      = $_FILES['images']['error'][$key];
+                                                                                                                                    
+             
+                                                                                                                                    
+           $fileName =basename($_FILES['images']['name'][$key]);
+                                                                                                                                    
+            $pname = 'Photo'.'_'.$fileName; //filename to save
+                // File upload path
+            $uploads_dir = '../upload';
+             move_uploaded_file($tmp_name , $uploads_dir .'/'.$pname);
+                
+       
+   
+                                                                  
+         
+            					}*/
+            					
+				$send_response = "INSERT INTO `response`( `content`, `details`, `date_responsed`,`csformid`) VALUES ('$content','$details','$defdt','$csform')";
+				
+				 
+						 }	
+						 $resultsss = mysqli_query($con,$send_response);
+						$get_id =  mysqli_insert_id($con); 
+								$sqlchoice = " select * from choices where form_id = '$formids'  ";
+						  		                $resultch = mysqli_query($con,$sqlchoice); // run query
+						  		               	$countch= mysqli_num_rows($resultch);
+						  		                 while($rowchoice = mysqli_fetch_array($resultch)){
+						  							$type = $rowchoice['type'];
+
+						  							if($type == 'checkbox'){
+						  								if($resultss) {
+						  									
+													
+													
+													 $chk = " ";
+													 foreach ($checkbox as $checkval) {
+													$chk .= $checkval.",";
+													
+													$update = " UPDATE `response` SET `details`='$chk' WHERE res_id='$get_id'  ";
+									
+											}
+												
+				 									$resultupt = mysqli_query($con,$update); 
+					              
+					                	       
+												}
+						  							}
+						  		                 
+
+
+						  		                 }
+					}else if (empty($checkbox)) {
+ 								if($required == 'yes'){
+ 									echo 'error';
+
+ 								}else if($required =='no'){
+ 									
+ 									 for($i=0; $i <= $count;$i++) { 
+								
+				/* foreach($_FILES['images']['name'] as $key=>$val){
+                  $image_name = $_FILES['images']['name'][$key];
+                   $tmp_name   = $_FILES['images']['tmp_name'][$key];
+                $size       = $_FILES['images']['size'][$key];
+                 $type       = $_FILES['images']['type'][$key];
+                 $error      = $_FILES['images']['error'][$key];
+                                                                                                                                    
+             
+                                                                                                                                    
+           $fileName =basename($_FILES['images']['name'][$key]);
+                                                                                                                                    
+            $pname = 'Photo'.'_'.$fileName; //filename to save
+                // File upload path
+            $uploads_dir = '../upload';
+             move_uploaded_file($tmp_name , $uploads_dir .'/'.$pname);
+                
+       
+   
+                                                                  
+         
+            					}*/
+            					
+				$send_response = "INSERT INTO `response`( `content`, `details`, `date_responsed`,`csformid`) VALUES ('$content','$details','$defdt','$csform')";
+				
+				 
+						 }	
+						 $resultss = mysqli_query($con,$send_response);
+						$get_id =  mysqli_insert_id($con); 
+								$sqlchoice = " select * from choices where form_id = '$formids'  ";
+						  		                $resultch = mysqli_query($con,$sqlchoice); // run query
+						  		               	$countch= mysqli_num_rows($resultch);
+						  		                 while($rowchoice = mysqli_fetch_array($resultch)){
+						  							$type = $rowchoice['type'];
+
+						  							if($type == 'checkbox'){
+						  								if($resultss) {
+						  									
+													
+													
+													 $chk = " ";
+													 foreach ($checkbox as $checkval) {
+													$chk .= $checkval.",";
+													
+													$update = " UPDATE `response` SET `details`='$chk' WHERE res_id='$get_id'  ";
+									
+											}
+												
+				 									$resultupt = mysqli_query($con,$update); 
+					              
+					                	       
+												}
+						  							}
+						  		                 
+
+
+						  		                 }
+						  		          	
+ 								}
+						
+					}
+				
+		
+
+					
+							
+					
+					
+	                	               
+							              
+						  		                 		
+							
+	                 }
+	                 
+
+
+	        // header('location:response_successfully.php');
+}
+
+ ?>

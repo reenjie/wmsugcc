@@ -1,0 +1,34 @@
+[04-Jan-2022 12:19:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 178
+[04-Jan-2022 12:19:30 UTC] PHP Notice:  Undefined index: isenabled in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 302
+[04-Jan-2022 12:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 346
+[04-Jan-2022 12:19:30 UTC] PHP Notice:  Undefined index: isenabled in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 302
+[04-Jan-2022 12:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 346
+[04-Jan-2022 12:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 616
+[04-Jan-2022 12:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 1016
+[04-Jan-2022 12:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 178
+[04-Jan-2022 12:19:32 UTC] PHP Notice:  Undefined index: isenabled in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 302
+[04-Jan-2022 12:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 346
+[04-Jan-2022 12:19:32 UTC] PHP Notice:  Undefined index: isenabled in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 302
+[04-Jan-2022 12:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 346
+[04-Jan-2022 12:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 616
+[04-Jan-2022 12:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 1016
+[04-Jan-2022 12:21:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 178
+[04-Jan-2022 12:22:00 UTC] PHP Notice:  Undefined index: isenabled in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 302
+[04-Jan-2022 12:22:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 346
+[04-Jan-2022 12:22:00 UTC] PHP Notice:  Undefined index: isenabled in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 302
+[04-Jan-2022 12:22:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 346
+[04-Jan-2022 12:22:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 616
+[04-Jan-2022 12:22:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 1016
+[04-Jan-2022 12:22:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/action.php on line 17
+[04-Jan-2022 22:19:57 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[04-Jan-2022 22:20:57 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 01:33:24 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 01:35:56 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 01:36:03 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 01:45:06 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 02:19:17 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 02:41:37 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 04:24:35 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 04:26:13 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[05-Jan-2022 07:06:06 Asia/Manila] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/index.php on line 125
+[04-Jan-2022 23:06:17 UTC] PHP Notice:  Undefined index: student_college in /home/ja59dvmjcj5e/public_html/wmsugcc/Myaccount/content.php on line 359

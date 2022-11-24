@@ -1,0 +1,6 @@
+[04-Jan-2022 18:48:19 UTC] PHP Notice:  Undefined index: sidebar_color in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Announcement/index.php on line 28
+[04-Jan-2022 18:48:19 UTC] PHP Notice:  Undefined index: sidebar_banner in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Announcement/index.php on line 37
+[04-Jan-2022 18:48:19 UTC] PHP Notice:  Undefined index: admingcc_token in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/include/assets/topbar.php on line 147
+[05-Jan-2022 06:05:36 UTC] PHP Notice:  Undefined index: sidebar_color in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Announcement/index.php on line 28
+[05-Jan-2022 06:05:36 UTC] PHP Notice:  Undefined index: sidebar_banner in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Announcement/index.php on line 37
+[05-Jan-2022 06:05:36 UTC] PHP Notice:  Undefined index: admingcc_token in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/include/assets/topbar.php on line 147

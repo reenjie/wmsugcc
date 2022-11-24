@@ -1,0 +1,3 @@
+[05-Jan-2022 06:05:30 UTC] PHP Notice:  Undefined index: sidebar_color in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Calendar/index.php on line 56
+[05-Jan-2022 06:05:30 UTC] PHP Notice:  Undefined index: sidebar_banner in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/Calendar/index.php on line 65
+[05-Jan-2022 06:05:30 UTC] PHP Notice:  Undefined index: admingcc_token in /home/ja59dvmjcj5e/public_html/wmsugcc/GCC/include/assets/topbar.php on line 147
